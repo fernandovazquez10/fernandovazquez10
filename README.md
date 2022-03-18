@@ -1,4 +1,4 @@
-### print('Hello world') 👋
+### print('Hello world') 🐍
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandovazquez10&show_icons=true&theme=algolia&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandovazquez10&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
